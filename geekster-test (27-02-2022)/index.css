@@ -1,0 +1,91 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+
+.div1 {
+    /* display: inline; */
+    width: 300px;
+    height: 360px;
+    background-color: red;
+    /* padding: 200px 100px; */
+    /* align-items: center; */
+    /* position: fixed; */
+    /* top: 10px; */
+    text-align: center;
+    /* vertical-align: middle; */
+    margin-left: 200px;
+}
+
+.div2 {
+    /* display: inline; */
+    margin-left: 300px;
+    margin-bottom: 270px;
+    /* margin-top: 0px; */
+   position: fixed;
+   top: 0px;
+    width: 600px;
+    height: 200px;
+    background-color:yellow ;
+    text-align: center;
+    /* padding: 60px 100px;
+    text-align: center;
+    align-items: center; */
+}
+
+.div3 {
+    /* display: inline; */
+    /* width: 80px; */
+    background-color: rgb(179, 27, 166);
+    padding: 35px 50px;
+    margin-left: 600px;
+    text-align: center;
+    position:fixed;
+    left: 465px;
+    top: 0px;
+    height: 290px;
+}
+
+.div4 {
+    background-color: green;
+    margin-top: 140px;
+    height: 200px;
+}
+
+.div5 {
+    background-color: orange;
+    width: 600px;
+    height: 100px;
+    margin-top: 340px;
+    margin-left: 1px;
+    
+}
+
+.div6 {
+    background-color: lightseagreen;
+    width: 100px;
+    margin-left: 600px;
+    height: 100px;
+     /* margin-top: 0px; */
+   position: fixed;
+   top: 358px;
+   
+}
+
+.div7 {
+    background-color: rgb(69, 8, 126);
+    width: 304px;
+    margin-left: 700px;
+    position: fixed;
+    top: 358px;
+    height: 200px;
+}
+
+.div8 {
+    width: 703px;
+    background-color: rgb(161, 125, 125);
+    height: 100px;
+}
+
